@@ -586,7 +586,7 @@ int main(){
     randomizeDeck(deck);
 
     // Тестировка
-    // deck[0].rang = cardRangs::ACE;
+    // deck[0].rang = cardRangs::ACE;LOL
     // deck[1].rang = cardRangs::SIX;
     // deck[2].rang = cardRangs::TEN;
     // deck[3].rang = cardRangs::TEN;

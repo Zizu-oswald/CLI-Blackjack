@@ -594,7 +594,7 @@ int main(){
     // deck[5].rang = cardRangs::KING;
 
     long long bank;
-    cout << "Your banka: ";
+    cout << "Your bank: ";
     cin >> bank;
     while (bank > 0){
         bank += playBlackjack(deck, bank);

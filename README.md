@@ -18,6 +18,7 @@ git clone https://github.com/Zizu-oswald/CLI-Blackjack.git
 mkdir build
 cd ./build
 cmake .. -DCMAKE_BUILD_TYPE=Release
+cmake --build .
 ```
 
 2. Run the game
